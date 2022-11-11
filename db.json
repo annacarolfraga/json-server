@@ -26,7 +26,7 @@
       "gramas":"200g" }
   ],
 
-  "Refeição":[
+  "Refeicao":[
   { "id": 1,
       "nome": "Churrasco misto", 
       "preço": "R$30",

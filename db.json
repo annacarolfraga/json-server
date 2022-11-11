@@ -1,0 +1,85 @@
+{
+  "Entradas":[
+  { "id": 1,
+      "nome": "Tábua de Queijos", 
+      "preço": "R$70",
+      "ingredientes" : "queijo brie,queijo de cabra,queijo minas, queijo minas curado, grana padano",
+      "gramas":"400g"
+  },
+
+  { "id": 2,
+      "nome": "Salada", 
+      "preço": "R$35",
+      "ingredientes" : "frango em tiras,alface americana,queijo parmesão ralado, croutons",
+      "gramas":"200g"   },
+      
+  { "id": 3,
+      "nome": "Azeitonas", 
+      "preço": "R$25",
+      "ingredientes" : "azeitona",
+      "gramas":"100g" },
+  
+  { "id": 4,
+      "nome": "Pão Australiano da Casa", 
+      "preço": "R$30",
+      "ingredientes" : "pão australiano e manteiga",
+      "gramas":"200g" }
+  ],
+
+  "Refeição":[
+  { "id": 1,
+      "nome": "Churrasco misto", 
+      "preço": "R$30",
+      "ingredientes" : "carne, linguiça,peito de frango, carne de porco,arroz,feijão,fritas",
+      "gramas":"450g"},
+  
+  { "id": 2,
+      "nome": "Parmegiana", 
+      "preço": "R$24",
+      "ingredientes" : "frango parmegiana,arroz,feijão,farofa,batata frita",
+      "gramas":"450g"},  
+  
+  { "id": 3,
+      "nome": "Strogonoffe de Frango", 
+      "preço": "R$27",
+      "ingredientes" : "peito de frango,creme de leite,arroz,batata palha",
+      "gramas":"450g"},
+      
+  { "id": 4,
+      "nome": "Macarrão c/ Almôndegas", 
+      "preço": "R$29",
+      "ingredientes" : "macarrão,molho de tomate,almôndegas de carne moída",
+      "gramas":"450g"}
+  ],
+  
+  "Veganas":[
+  { "id": 1,
+      "nome": "Macarrão vegano", 
+      "preço": "R$26",
+      "ingredientes" : "macarrão, molho branco, brócolis",
+      "gramas":"450g" },
+
+  { "id": 2,
+      "nome": "Risoto de legumes", 
+      "preço": "R$24",
+      "ingredientes" : "cenoura,batata,chuchu,arroz",
+      "gramas":"450g"
+  },
+
+  { "id": 3,
+      "nome": "Sopa de Mandioquinha", 
+      "preço": "R$23",
+      "ingredientes" : "mandioca, temperos",
+      "gramas":"300g"
+  },
+
+  
+  { "id": 4,
+      "nome": "Caldo de Feijão", 
+      "preço": "R$22",
+      "ingredientes" : "feijão,temperos",
+      "gramas":"300g"}
+
+  ]
+}
+
